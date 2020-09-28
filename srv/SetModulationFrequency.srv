@@ -1,0 +1,4 @@
+# allowed values are 30,29,31,15,14.5,15.5
+float32 modulation_frequency_mhz
+---
+bool success

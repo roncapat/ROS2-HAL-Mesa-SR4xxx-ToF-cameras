@@ -1,0 +1,6 @@
+uint8 min_int_time
+uint8 max_int_time
+uint8 percent_over_pos
+uint8 desired_pos
+---
+bool success true

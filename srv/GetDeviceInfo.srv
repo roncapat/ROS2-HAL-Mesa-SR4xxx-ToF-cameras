@@ -1,0 +1,5 @@
+---
+string vendor_id
+string product_id
+string manufacturer
+string product

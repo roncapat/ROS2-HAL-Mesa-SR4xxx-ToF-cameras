@@ -1,0 +1,5 @@
+#For SR4xxx cameras, integration_ms=300us+N*100us, 0<N<255, other values not allowed
+uint32 integration_us
+---
+bool success
+

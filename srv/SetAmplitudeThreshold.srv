@@ -1,0 +1,4 @@
+# 0 < amplitude_threshold < 2**16-1, failure if outside bound
+uint16 amplitude_threshold
+---
+bool success
